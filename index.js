@@ -1,1 +1,1 @@
-console.log("Cook'n'JS recipes");
+console.log("Cook'n'JS recipes")
